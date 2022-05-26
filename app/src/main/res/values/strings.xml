@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">countrySearcher</string>
+    <string name="capital">Capital</string>
+    <string name="popular">Popular:</string>
+    <string name="language">Language:</string>
+    <string name="search">Search</string>
+    <string name="flag">Flag</string>
+    <string name="country_name">Country name</string>
+    <string name="capital_name">Capital name</string>
+    <string name="number_of_popular">Number of popular</string>
+    <string name="region">Region:</string>
+</resources>
